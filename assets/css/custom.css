@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Karla;
+    src: url(/fonts/Karla-VariableFont_wght.ttf);
+    font-weight: normal;
+}
+
+.sidebar-about h1 {
+    font-size: 1.4em;
+    font-family: Karla;
+}
+
+.post {
+    font-family: Karla;
+}
