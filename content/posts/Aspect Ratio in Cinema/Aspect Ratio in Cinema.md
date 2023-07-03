@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Aspect Rations in Cinema"
 layout: single
 date: 2023-06-01
